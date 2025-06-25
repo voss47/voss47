@@ -1,16 +1,38 @@
-## Hi there 👋
+# ⚡ Henrik Magnus Voss
 
-<!--
-**voss47/voss47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trader-engineer focused on performance, execution, and real-time systems.  
+Working at the edge of capital and coordination — with an eye on decentralized infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 What I Work On
+
+- Strategy execution engines  
+- Onchain coordination & smart contract logic  
+- Real-time APIs and latency-aware design  
+- Tools for automated decisioning at scale
+
+---
+
+## ⚙️ Tools & Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-F74C00?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+</p>
+
+---
+
+## 🔍 Interests
+
+- Distributed financial systems  
+- Protocol design & smart execution logic  
+- Infrastructure for permissionless coordination  
+- Automation at the edge of markets
+
+<!---
+henrikvoss/henrikvoss is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
